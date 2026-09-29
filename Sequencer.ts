@@ -1,12 +1,3 @@
-const message = "Hello World!";
-
-// Accessing the property 'toLowerCase'
-// on 'message' and then calling it
-message.toLowerCase();
-
-console.log(message)
-
-
 let notTransformed = 'https://assets.forge-vtt.com/6abad095fe0a2212df73fa1a/dima-kasheev-main-pose1.jpg';
 let transformed = 'https://assets.forge-vtt.com/6abad095fe0a2212df73fa1a/tom-gambino-render-20.jpg';
 
