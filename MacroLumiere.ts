@@ -1,6 +1,6 @@
 const targetName = "Lumière";
-const notTransformed = 'worlds/daram-sin/PJ/Lum/Mika_JDR_Ratel.png';
-const transformed = 'worlds/daram-sin/PJ/Lum/Lum_Ratel.jpg';
+const notTransformed = 'worlds/sabenn/Mika_JDR_Ratel.png';
+const transformed = 'worlds/sabenn/FormeRatel.jpg';
 
 const targetActor = game.actors.getName(targetName);
 
